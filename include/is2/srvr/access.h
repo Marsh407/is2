@@ -1,5 +1,5 @@
 //! ----------------------------------------------------------------------------
-//! Copyright Verizon.
+//! Copyright Edgio Inc.
 //!
 //! \file:    TODO
 //! \details: TODO
@@ -14,6 +14,7 @@
 //! ----------------------------------------------------------------------------
 #include "is2/nconn/scheme.h"
 #include "is2/srvr/http_status.h"
+#include <cstdint>
 #include <sys/socket.h>
 #include <string>
 namespace ns_is2 {
